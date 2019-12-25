@@ -2,4 +2,5 @@
 API for a bug tracker app
 
 #Database
-![Database model](https://imgur.com/i7fKNg3)
+(http://url/to/img.png)
+![Database model](https://i.imgur.com/i7fKNg3.png)
